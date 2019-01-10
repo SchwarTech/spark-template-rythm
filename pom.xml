@@ -7,12 +7,12 @@
         <version>7</version>
     </parent>
     <groupId>com.sparkjava</groupId>
-    <artifactId>aa-spark-template-rythm</artifactId>
+    <artifactId>spark-template-rythm</artifactId>
     <packaging>jar</packaging>
     <version>2.8.0</version>
 
     <name>spark-template-rythm</name>
-    <description>Apache Velocity Template View Route implementation for Spark</description>
+    <description>Rythm template engine (http://rythmengine.org) implementation for Spark</description>
     <url>http://www.sparkjava.com</url>
 
     <licenses>
